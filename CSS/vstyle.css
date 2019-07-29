@@ -1,0 +1,27 @@
+/*CSS Resets*/
+
+*{
+	margin: 0;
+	padding: 0;
+	box-sizing: border-box;
+}
+body
+{
+	background: orange;
+}
+p
+{
+	width:50%;
+	border:2px solid blue;
+	margin: 50px;
+	padding: 20px;
+	text-align: left;
+	text-decoration: bold, underline;
+	color: blue;
+	font-size: 20px;
+}
+img
+{
+	
+	border-width: 20px;
+}
